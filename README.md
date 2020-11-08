@@ -16,10 +16,10 @@ Conheça nosso [Código de Conduta](./.github/CODE_OF_CONDUCT.md) para entender 
 Leia nossa [Politica de Segurança e Privacidade](./.github/SECURITY.md) para saber como lidamos com seus dados, com o report de bugs e falhas de segurança.
 
 # O Que Está Sendo Feito
-Acompanhe o andamento do projeto e o escopo de cada funcionalidade nas nossas [Issues](./issues) do Git Hub, utilize essa ferramenta também para solicitar novas funcionalidades e ferramentas.
+Acompanhe o andamento do projeto e o escopo de cada funcionalidade nas nossas [Issues](https://github.com/RomeuTMC/ConsultorioVirtual/issues) do Git Hub, utilize essa ferramenta também para solicitar novas funcionalidades e ferramentas.
 
 # Manual e Wiki
-Acompanhe no [Wiki](./wiki) o nosso manual, tutoriais, instalação e outros detalhes de ajuda na instalação, configuração e utilização.
+Acompanhe no [Wiki](https://github.com/RomeuTMC/ConsultorioVirtual/wiki) o nosso manual, tutoriais, instalação e outros detalhes de ajuda na instalação, configuração e utilização.
 
 # Licença de Uso e Distribuição
 Usamos a licença ** GNU GENERAL PUBLIC LICENSE - Version 3 ** em nosso projeto, que permite a você o *uso comercial, modificação, distribuição, uso de patente e o uso privado e particular * deste software e de todos os seus derivados, desde que você aceite as * Condições de Licença * e mantenha os * avisos de direitos autorais * podendo inclusive divulgar o código fonte, fazer suas proprias modificações e melhorias, desde que mantida a fonte original e seus devidos créditos.
